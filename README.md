@@ -1,8 +1,15 @@
 <img alt="Logo" src="https://raw.githubusercontent.com/sandwich-makes-code/PassPort/refs/heads/main/logo/current/PassPort.png" />
 <h1 align="center">PassPort</h1>
 
+<div align="center">
+  
+[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/sandwich-makes-code/PassPort?style=social)](https://github.com/sandwich-makes-code/PassPort)
 
-The reliable Windows requirement bypass utility
+### The reliable Windows requirement bypass utility
+</div>
+
 
 ## What is PassPort?
 PassPort is a utility meant to be used to disable Windows requirements either inside the setup environment or your desktop for easy and *reliable* use.
@@ -24,6 +31,15 @@ The checkboxes located on the left are the buttons used to disable the Windows r
 The **Detect Automatically** button is to detect which Windows 11 requirement your device doesn't support and automatically selects the checkbox correlating with that requirement.
 
 The **Exit** box is straightforward - it exits the program.
+
+#### What will **Apply Changes** do?
+Once you press **Apply Changes**, a confirmation will show up.
+
+<img width="364" height="152" alt="image" src="https://github.com/user-attachments/assets/139edf79-f502-4bce-b4cb-8e2ea881d217" />
+
+Press **Yes** and continue.
+The app will apply the registry changes.
+
 
 ## Issues
 Please report any issues here: [Issues](https://github.com/sandwich-makes-code/PassPort/issues)
